@@ -12,7 +12,7 @@ const Footer = () => {
             {/* Using a standard img tag for compatibility */}
             <div className="relative mb-4">
               <img
-                src="/logo.png"
+                src="/globlogo.png"
                 alt="Company Logo"
                 width={100}
                 height={100}

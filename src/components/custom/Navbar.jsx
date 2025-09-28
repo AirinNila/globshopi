@@ -104,7 +104,7 @@ export default function Navbar() {
               {/* logo for mobile and desktop  */}
               <Link href="/" data-discover="true">
                 <Image
-                  src="/logo.png"
+                  src="/globlogo.png"
                   alt="logo"
                   width={60}
                   height={60}
